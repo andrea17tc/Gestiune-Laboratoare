@@ -1,0 +1,3 @@
+ID student: 1; Numar problema: 1_1; Nota:6.0
+ID student: 2; Numar problema: 1_1; Nota:5.0
+ID student: 3; Numar problema: 1_1; Nota:5.0

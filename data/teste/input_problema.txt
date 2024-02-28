@@ -1,0 +1,3 @@
+1_1;Ana are caise;23
+1_2;Ana are nuci;12
+1_3;Ana are mere;9

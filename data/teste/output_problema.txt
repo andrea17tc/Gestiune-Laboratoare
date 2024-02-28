@@ -1,0 +1,4 @@
+1_1; Ana are mere; 3
+1_2;Ana are pere; 5
+1_3;Ana are caise; 8
+1_4;Ana are prune; 12

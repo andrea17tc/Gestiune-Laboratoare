@@ -1,0 +1,4 @@
+1;Adi;215
+2;Andrei;214
+3;Marius;215
+4;Mihai;213
